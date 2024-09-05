@@ -1,0 +1,72 @@
+body {
+    background-image: url("buddha-background.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+}
+
+#text {
+    padding: 10%;
+    padding-top: 15%;
+}
+
+h1 {
+    font-size: 3.5em;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+
+h2 {
+    padding-top: 8%;
+    padding-bottom: 3%;
+    font-size: 1.8em;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 1.1em;
+    font-weight: 600;
+    text-align: center;
+}
+
+h4 {
+    font-size: 1.2em;
+    font-style: italic;
+    font-weight: 300;
+    text-align: center;
+}
+
+#address {
+    padding-top: 5%;
+    padding-bottom: 8%;
+}
+
+#zoom-block {
+    border: 1px black solid;
+    padding: 15px 20px;
+    text-align: center;
+    border-radius: 15px;
+    width: 65%;
+    margin: auto;
+    background-color: rgba(255,255,255, 0.7);
+}
+
+ul {
+    font-weight: 600;
+    line-height: 2em;
+}
+
+.abstract {
+    font-weight: 400;
+    background-color: rgba(255,255,255, 0.75);
+    padding: 7px;
+}
+
+a {
+    color: #665fd1;
+}
