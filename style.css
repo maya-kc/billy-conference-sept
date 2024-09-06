@@ -1,15 +1,11 @@
 body {
+    background-image: url("buddha-background.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
-}
-
-.body-bg {
-    background-repeat: no-repeat;
-    background-position: center;
-    position: fixed;
-    background-image: url("buddha-background.JPG");
-    background-size: contain;
-    z-index: -1;
 }
 
 #text {
