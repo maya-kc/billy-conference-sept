@@ -68,6 +68,9 @@ ul {
     padding: 7px;
 }
 
+.indented-text {
+    margin-left: 25px;
+
 a {
     color: #665fd1;
 }
